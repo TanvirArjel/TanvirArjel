@@ -20,4 +20,10 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 5. Have hands on knowledge in Docker and Microcervice Oriented Architecture in ASP.NET Core.
 6. Advance level knowledge of ASP.NET MVC, ASP.NET Web API, ASP.NET Identity, Entity Framework, Linq etc.
 7. Expert in Microsoft Sql Server: Stored Procedure, Function, Indexing,Triggering, Pivoting and Complex Joining etc.
-8. Pros and cons of Jquery Datatable with ASP.NET Core, ASP.NET MVC, ASP.NET web API and Angular. 
+8. Pros and cons of Jquery Datatable with ASP.NET Core, ASP.NET MVC, ASP.NET web API and Angular.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TanvirArjel" alt="TanvirArjel" /> (From 06-10-2020) </p> 
+
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=TanvirArjel&show_icons=false" alt="TanvirArjel" />
+ </p>
