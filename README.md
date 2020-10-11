@@ -44,7 +44,3 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
  **Email:** tanvirarjel2@gmail.com
-
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirArjel&show_icons=false" alt="TanvirArjel" />
- </p>
