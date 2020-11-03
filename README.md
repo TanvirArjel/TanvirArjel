@@ -4,20 +4,20 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Software Architecture and Solution Design</b></td>
-    <td><b style="font-size:30px">Database Design</b></td>
+    <td><b style="font-size:30px">1. Software Architecture and Solution Design</b></td>
+    <td><b style="font-size:30px">2. Database Design</b></td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">Live Server Management</b></td>
-    <td><b style="font-size:30px">Azure DevOps, CI/CD pipeline integration</b></td>
+    <td><b style="font-size:30px">3. Live Server Management</b></td>
+    <td><b style="font-size:30px">4. Azure DevOps, CI/CD pipeline integration</b></td>
  </tr>
   <tr>
-    <td><b style="font-size:30px">Team Management</b></td>
-    <td><b style="font-size:30px">Software Development Life Cycle (SDLC)</b></td>
+    <td><b style="font-size:30px">5. Team Management</b></td>
+    <td><b style="font-size:30px">6. Software Development Life Cycle (SDLC)</b></td>
  </tr>
   <tr>
-    <td><b style="font-size:30px">System Analyst</b></td>
-    <td><b style="font-size:30px">Client Communication</b></td>
+    <td><b style="font-size:30px">7. System Analyst</b></td>
+    <td><b style="font-size:30px">8. Client Communication</b></td>
  </tr>
 </table>
 
