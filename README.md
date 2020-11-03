@@ -33,7 +33,7 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 **Microsoft SQL Server | SQLite | Redis**
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**Git | TFS | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | RabbitMQ | AutoMapper | MediatR**
+**Git | TFS | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | RabbitMQ | AutoMapper | MediatR | Swagger/OpenAPI**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | TDD**
