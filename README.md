@@ -24,10 +24,10 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-  **C# | Python | JavaScript | TypeScript**
+  **C# | JavaScript | TypeScript**
   
 ## 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
-**.NET/.NET Core | ASP.NET/ASP.NET Core | Entity Framework/Entity Framework Core | Angular | Django | Microsoft Azure | Docker**
+**.NET/.NET Core | ASP.NET/ASP.NET Core | Entity Framework/Entity Framework Core | Angular | Microsoft Azure | Docker**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 **Microsoft SQL Server | SQLite | Redis**
