@@ -1,6 +1,6 @@
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Programming Blogger and a regular [Stack Overflow](https://stackoverflow.com/users/5928070/tanvirarjel) and GitHub (open source) contributor with more than five years of professional experience in Enterprise Application and Software Development. Apart from that I am also an author of few open source ASP.NET Core libraries which have been published in [Nuget](https://www.nuget.org/profiles/TanvirArjel). 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
+It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Programming Blogger and a regular [Stack Overflow](https://stackoverflow.com/users/5928070/tanvirarjel) and GitHub (open source) contributor with more than **6 years** of professional experience in Enterprise Application and Software Development. Apart from that I am also an author of few open source ASP.NET Core libraries which have been published in [Nuget](https://www.nuget.org/profiles/TanvirArjel). 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
 
 <table border="0">
  <tr>
