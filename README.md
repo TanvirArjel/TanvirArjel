@@ -30,7 +30,7 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 **.NET/.NET Core | ASP.NET/ASP.NET Core | Entity Framework/Entity Framework Core | Angular | Microsoft Azure | Docker**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
-**Microsoft SQL Server | SQLite | Redis**
+**Microsoft SQL Server | MongoDb | Redis**
 
 ## 𝐓𝐨𝐨𝐥𝐬
 **Git | TFS | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | RabbitMQ | AutoMapper | MediatR | Swagger/OpenAPI**
