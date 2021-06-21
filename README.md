@@ -29,6 +29,9 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
 **.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Angular**
 
+## 𝗖𝗹𝗼𝘂𝗱
+**Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub**
+
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 **Microsoft SQL Server | PostgreSQL | MongoDB | Redis | EventStoreDB**
 
