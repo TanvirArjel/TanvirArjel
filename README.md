@@ -44,8 +44,8 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
 **HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular**
 
-### 𝐎𝐭𝐡𝐞𝐫𝐬
-**Data Structures and Algorithms**
+## 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
+**Regular HackerRank and LeetCode problems solver.**
 
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
