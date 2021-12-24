@@ -24,7 +24,7 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
-  **LeetCode : 100+ problems solved.**
+  **LeetCode : 150+ problems solved.**
   
   **HackerRank : 4 Stars**
 
