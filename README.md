@@ -51,4 +51,4 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 
 # ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
- **Email:** tanvirarjel2@gmail.com
+ **Email:** ta.arjel@gmail.com
