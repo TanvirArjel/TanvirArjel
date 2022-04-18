@@ -4,8 +4,8 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">1. Clean Architecture</b></td>
-    <td><b style="font-size:30px">2. Domain-Driven Design</b></td>
+    <td><b style="font-size:30px">1. System Design and Database Design</b></td>
+    <td><b style="font-size:30px">2. Solution Design and Architecture.</b></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">3. Event Driven Architecture</b></td>
@@ -16,8 +16,8 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
     <td><b style="font-size:30px">6. Azure DevOps, CI/CD pipeline integration</b></td>
  </tr>
   <tr>
-    <td><b style="font-size:30px">7. System Analyst</b></td>
-    <td><b style="font-size:30px">8. Database Design</b></td>
+    <td><b style="font-size:30px">7. Domain-Driven Design</b></td>
+    <td><b style="font-size:30px">8. Clean Architecture</b></td>
  </tr>
 </table>
 
