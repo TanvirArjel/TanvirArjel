@@ -1,11 +1,13 @@
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Programming Blogger and a regular [Stack Overflow](https://stackoverflow.com/users/5928070/tanvirarjel) and GitHub (open source) contributor with more than **6 years** of professional experience in Enterprise Application and Software Development. Apart from that I am also an author of few open source ASP.NET Core libraries which have been published in [Nuget](https://www.nuget.org/profiles/TanvirArjel). 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
+It’s me, Tanvir Ahmad Arjel, a Full Stack Software Engineer, with more than 6 years of professional experience
+in Enterprise Application and Software Development **having strong problem solving, data structures and
+algorithms knowledge. In short, I have expertise in the following fields:**
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">1. System Design and Database Design</b></td>
-    <td><b style="font-size:30px">2. Solution Design and Architecture.</b></td>
+    <td><b style="font-size:30px">1. Microservice and Distributed System.</b></td>
+    <td><b style="font-size:30px">2. System Design and Database Design.</b></td>
  </tr>
  <tr>
     <td><b style="font-size:30px">3. Event Driven Architecture</b></td>
@@ -24,7 +26,7 @@ It’s me, Tanvir Ahmad Arjel, a Software Engineer, Passionate Programmer, Progr
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
-  **LeetCode : 400+ problems solved.**
+  **LeetCode : 550+ problems solved.**
   
   **HackerRank : 4 Stars**
 
