@@ -26,21 +26,21 @@ algorithms knowledge. In short, I have expertise in the following fields:**
 # 💪 𝐒𝐊𝐈𝐋𝐋𝐒
 
 ## 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
-  **LeetCode : 550+ problems solved.**
+  **LeetCode : 1400+ problems solved.**
   
   **HackerRank : 4 Stars**
 
 ## 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
-  **C# | C++ | JavaScript | TypeScript**
+  **C# | Java | C++ | JavaScript | TypeScript**
   
 ## 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
-**.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Angular**
+**.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Angular | Spring Boot**
 
 ## 𝗖𝗹𝗼𝘂𝗱
 **Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub**
 
 ## 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
-**Microsoft SQL Server | PostgreSQL | MongoDB | Redis | EventStoreDB**
+**Microsoft SQL Server | MySQL | PostgreSQL | MongoDB | Redis | EventStoreDB**
 
 ## 𝐓𝐨𝐨𝐥𝐬
 **Docker | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI**
