@@ -1,6 +1,6 @@
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-It’s me, Tanvir Ahmad Arjel, a Full Stack Software Engineer, with more than 6 years of professional experience
+It’s me, Tanvir Ahmad Arjel, a Full Stack Software Engineer, with more than 8 years of professional experience
 in Enterprise Application and Software Development **having strong problem solving, data structures and
 algorithms knowledge. In short, I have expertise in the following fields:**
 
