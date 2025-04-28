@@ -1,25 +1,21 @@
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-It’s me, Tanvir Ahmad Arjel, a Full Stack Software Engineer, with more than 8 years of professional experience
-in Enterprise Application and Software Development **having strong problem solving, data structures and
-algorithms knowledge. In short, I have expertise in the following fields:**
+I am a Software Engineer, with more than 8 years of professional experience in Enterprise Application and
+Software Development **having strong foundation in data structures, algorithms and problem solving. I have
+expertise in the following fields:**
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">1. Microservice and Distributed System.</b></td>
-    <td><b style="font-size:30px">2. System Design and Database Design.</b></td>
+    <td><b style="font-size:30px">1. Software Architecture & System Design.</b></td>
+    <td><b style="font-size:30px">2. Backend Development & APIs.</b></td>
  </tr>
  <tr>
-    <td><b style="font-size:30px">3. Event Driven Architecture</b></td>
-    <td><b style="font-size:30px">4. Event Sourcing</b></td>
+    <td><b style="font-size:30px">3. Payment Systems (FinTech)</b></td>
+    <td><b style="font-size:30px">4. Microservices & Distributed Systems</b></td>
  </tr>
   <tr>
-    <td><b style="font-size:30px">5. Cloud Functions</b></td>
-    <td><b style="font-size:30px">6. Azure DevOps, CI/CD pipeline integration</b></td>
- </tr>
-  <tr>
-    <td><b style="font-size:30px">7. Domain-Driven Design</b></td>
-    <td><b style="font-size:30px">8. Clean Architecture</b></td>
+    <td><b style="font-size:30px">5. CI/CD pipeline integration</b></td>
+    <td><b style="font-size:30px">6. A/B Testing & Experimentation</b></td>
  </tr>
 </table>
 
@@ -43,7 +39,9 @@ algorithms knowledge. In short, I have expertise in the following fields:**
 **Microsoft SQL Server | MySQL | PostgreSQL | MongoDB | Redis | EventStoreDB**
 
 ## 𝐓𝐨𝐨𝐥𝐬
-**Docker | Git | TFS | Kafka | RabbitMQ | xUnit | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI**
+**Docker | Kibana | Grafana | ElasticSearch | Prometheus | Hadoop | Seq | Loki | Git | | xUnit | NUnit |
+EventStore | RabbitMQ | Kafka | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR |
+Swagger/OpenAPI**
 
 ## 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬
 **MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | Event Driven Architecture | TDD**
